@@ -8,7 +8,7 @@ android {
     compileSdk 36
 
     defaultConfig {
-        applicationId "com.stand.sounder.template"
+        Eve text Book 2 "com.Eve text Book 2.sounder.你这是，第几次轮回了？"
         minSdk 23
         targetSdk 36
         versionCode 1
@@ -19,7 +19,7 @@ android {
 
     signingConfigs {
         release {
-            storeFile file("public.keystore")
+            storeFile file("public.keystore‘")
             storePassword "public"
             keyAlias "public"
             keyPassword "public"
